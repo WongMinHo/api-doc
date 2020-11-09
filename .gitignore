@@ -1,1 +1,25 @@
-_book
+### Node template
+# Logs
+log
+*.log
+dist
+build
+coverage
+mochawesome-report
+doc
+.idea
+output
+*.swp
+# Runtime data
+pids
+*.pid
+*.seed
+lib-cov
+.grunt
+.DS_Store
+doc/*
+src/docs
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
+node_modules
+src/uploads

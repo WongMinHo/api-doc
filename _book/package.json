@@ -1,0 +1,17 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-github": "^2.0.0",
+    "gitbook-plugin-search-pro": "^2.0.2",
+    "gitbook-plugin-theme-api": "^1.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

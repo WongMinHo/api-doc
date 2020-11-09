@@ -1,0 +1,20 @@
+{
+    "title": "Nodejs Elasticsearch服务",
+    "description": "使用 Nodejs 搭建的基于 Elasticsearch 的搜索服务",
+    "language": "zh-hans",
+    "author": "Miwoes",
+    "links": {
+    },
+    "plugins": [
+        "theme-api"
+    ],
+    "pluginsConfig": {
+        "theme-api": {
+            "languages": [{
+                "lang": "js", 
+                "name": "Javascript",
+                "default": true
+            }]
+        }
+    }
+}
